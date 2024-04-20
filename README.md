@@ -1,2 +1,2 @@
 # CommitTool
-A custom Python tool to allow for formatted commits.
+A custom cli tool to allow for formatted commits.
